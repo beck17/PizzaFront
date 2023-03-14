@@ -59,7 +59,7 @@ const Product = () => {
         <div className={styles.container}>
             <div className={styles.left}>
                 <div className={styles.imgContainer}>
-                    <img src={product.img} alt='pizza'/>
+                    <img src={product.img} alt='pizza' />
                 </div>
             </div>
             <div className={styles.right}>
